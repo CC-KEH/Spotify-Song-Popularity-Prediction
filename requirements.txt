@@ -7,3 +7,4 @@ mlflow
 jupyter
 scipy
 flask
+pandas-profiling
