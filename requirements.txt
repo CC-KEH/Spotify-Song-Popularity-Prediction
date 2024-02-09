@@ -8,3 +8,4 @@ jupyter
 scipy
 flask
 pandas-profiling
+ipykernel
