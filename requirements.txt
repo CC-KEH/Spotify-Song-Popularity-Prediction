@@ -9,3 +9,4 @@ scipy
 flask
 pandas-profiling
 ipykernel
+pymongo
